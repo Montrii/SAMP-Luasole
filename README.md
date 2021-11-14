@@ -1,4 +1,4 @@
-# <p align="center">LUA-SAMP-Console</p>
+# <p align="center">LUA-SAMP-Luasole</p>
 <p align="center">This project aims to replace the <em>SAMPFUNCS</em> console, by building a more fluent version.<br>
 It allows you to view the internal <code>moonloader logs</code>, with the ability to run custom code via its <b>powerful</b> command handling.<br>
  You can open the console by pressing the <b>F2</b> button.</p>
