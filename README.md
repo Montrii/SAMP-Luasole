@@ -3,4 +3,6 @@ This script displays the entire history of the moonloader workthrough.
 
 
 
-Checkout the [Wiki page](/%2E%2E/wikis/Welcome)
+### For Developers
+
+Do you want to create your own commands? Checkout the [Wiki](https://github.com/Montrii/LUA-SAMP-Console/wiki)
